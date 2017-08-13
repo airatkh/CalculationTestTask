@@ -12,7 +12,7 @@ features to your application.
 DEMO PAGE
 ---------------------
 
-[![Demo Page Calc Test Task](https://poser.pugx.org/yiisoft/yii2-app-basic/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-app-basic)
+[Demo Page Calc Test Task](http://uremont.zizlab.com/)
 
 
 CONFIGURATION
